@@ -1,6 +1,6 @@
 The aim of the work, presented in this document, is to implement
-the MinMax k-Means algorithm and to compare its eectiveness to other similar
-algorithms using several dierent datasets and cluster quality metrics.
+the MinMax k-Means algorithm and to compare its effectiveness to other similar
+algorithms using several different datasets and cluster quality metrics.
 
 The main structure of this project is divided into four folders and the main file.
 
